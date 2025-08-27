@@ -11,7 +11,12 @@ Built with **MediaPipe Pose + OpenCV + Python**.
 - Works with **webcam** or video input.  
 - Side-by-side view:  
   - 👤 Left: You  
-  - 🎎 Right: Your AI twin  
+  - 🎎 Right: Your AI twin
+
+---
+## 🖼 Demo
+
+![1_9r1VtYAIe6P85QWD2dVF5A](https://github.com/user-attachments/assets/206a8faa-858a-499f-b6a0-9feeff1138cc)
 
 ---
 
